@@ -1,4 +1,6 @@
 # demo usage git+github
+- hello
+- php
 - x
 - xz
 - ls
